@@ -21,7 +21,6 @@ You can view a live demo of the landing page
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 
 ## Installation
 
